@@ -1,3 +1,5 @@
+<!--This XML file serves no real purpose. I can't be asked to implement XML reading in Python, or switch to CSV.-->
+
 <person>
   <name>K2</name>
   <age>N/A</age>
