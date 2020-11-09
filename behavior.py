@@ -3,7 +3,7 @@ import human_functions as Person
 import pass_check as PassChecker
 from datetime import datetime
 
-PassChecker("NWORDPASS.md")
+PassChecker.CheckForPass("NWORDPASS.md")
 
 while Awake == True:
     print("K2 active")
