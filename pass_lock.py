@@ -1,6 +1,6 @@
 import os
 
-class PassNotFound(Exception)
+class PassNotFound(Exception):
     pass
 
 def CheckForPass(filetocheck):

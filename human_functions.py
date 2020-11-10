@@ -1,2 +1,2 @@
 class Intelligence:
-    Enable = false
+    Enable = False
